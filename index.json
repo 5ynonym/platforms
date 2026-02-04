@@ -115,7 +115,7 @@
     },
     {
       "filename": "PlayStationPortable.json",
-      "platformName": "Sony - PlayStation Portable",
+      "platformName": "PlayStation Portable",
       "platformShortname": "psp",
       "platformUniqueId": "psp",
       "revisionNumber": 13
