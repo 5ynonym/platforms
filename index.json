@@ -51,34 +51,6 @@
       "revisionNumber": 2
     },
     {
-      "filename": "NeoGeo.json",
-      "platformName": "Neo Geo",
-      "platformShortname": "neogeo",
-      "platformUniqueId": "neogeo",
-      "revisionNumber": 12
-    },
-    {
-      "filename": "NeoGeoCD.json",
-      "platformName": "Neo Geo CD",
-      "platformShortname": "neogeocd",
-      "platformUniqueId": "neogeocd",
-      "revisionNumber": 10
-    },
-    {
-      "filename": "NeoGeoPocket.json",
-      "platformName": "NeoGeo Pocket",
-      "platformShortname": "ngp",
-      "platformUniqueId": "ngp",
-      "revisionNumber": 10
-    },
-    {
-      "filename": "NeoGeoPocketColor.json",
-      "platformName": "NeoGeo Pocket Color",
-      "platformShortname": "ngpc",
-      "platformUniqueId": "ngpc",
-      "revisionNumber": 7
-    },
-    {
       "filename": "Nintendo3DS.json",
       "platformName": "Nintendo 3DS",
       "platformShortname": "3ds",
@@ -203,13 +175,6 @@
       "platformShortname": "snes",
       "platformUniqueId": "snes",
       "revisionNumber": 12
-    },
-    {
-      "filename": "VirtualBoy.json",
-      "platformName": "Virtual Boy",
-      "platformShortname": "virtualboy",
-      "platformUniqueId": "virtualboy",
-      "revisionNumber": 7
     },
     {
       "filename": "WonderSwan.json",
